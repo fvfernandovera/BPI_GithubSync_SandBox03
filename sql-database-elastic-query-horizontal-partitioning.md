@@ -1,4 +1,4 @@
-﻿PRUEBA CAMBIO
+﻿PRUEBA CAMBIO EN SANDBOX 3
     pageTitle="スケールアウトされたクラウド データベース全体をレポートする | Microsoft Azure"
     description="行方向のパーティション分割でエラスティック クエリを設定する方法"    
     services="sql-database"
